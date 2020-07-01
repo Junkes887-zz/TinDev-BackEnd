@@ -1,1 +1,5 @@
-backend
+### Init
+```
+npm install
+npm start
+```
